@@ -1,0 +1,3 @@
+Composite: When I fill $username, $password in the registration form
+When I enter `<username>` in field located `By.xpath(//*[@id="name"])`
+When I enter `<password>` in field located `By.xpath(//*[@id="password"])`
